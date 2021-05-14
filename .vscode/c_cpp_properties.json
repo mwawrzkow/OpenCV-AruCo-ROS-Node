@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/mwawrzkow/catkin/devel/include/**",
+                "/opt/ros/noetic/include/**",
+                "/home/mwawrzkow/catkin/src/image_common/camera_calibration_parsers/include/**",
+                "/home/mwawrzkow/catkin/src/image_common/camera_info_manager/include/**",
+                "/home/mwawrzkow/catkin/src/vision_opencv/cv_bridge/include/**",
+                "/home/mwawrzkow/catkin/src/driver/driver_utils/include/**",
+                "/home/mwawrzkow/catkin/src/vision_opencv/image_geometry/include/**",
+                "/home/mwawrzkow/catkin/src/image_common/image_transport/include/**",
+                "/home/mwawrzkow/catkin/src/image_common/polled_camera/include/**",
+                "/home/mwawrzkow/catkin/src/common_msgs/sensor_msgs/include/**",
+                "/home/mwawrzkow/catkin/src/webservice/include/**",
+                "/usr/include/**",
+                "/home/mwawrzkow/src/opencv/opencv/include/**",
+                "/home/mwawrzkow/src/opencv/opencv_contrib/modules/**"
+            ],
+            "name": "ROS",
+            "configurationProvider": "go2sh.cmake-integration"
+        }
+    ],
+    "version": 4
+}
